@@ -148,7 +148,7 @@ function App() {
               <Github size={24} />
             </a>
             <a
-              href="https://x.com/shani_tiwari"
+              href="https://x.com/shanidevelops"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-400 hover:text-[#1DA1F2] hover:drop-shadow-[0_0_10px_rgba(29,161,242,0.4)] transition-all duration-300"
@@ -156,7 +156,7 @@ function App() {
               <Twitter size={24} />
             </a>
             <a
-              href="https://instagram.com/shani_tiwari"
+              href="https://instagram.com/shanidevelops"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-400  hover:text-[#E4405F] hover:drop-shadow-[0_0_10px_rgba(228,64,95,0.4)] transition-all duration-300"
